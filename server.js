@@ -7,5 +7,4 @@ const server = http.createServer((req, res) => {
   
 })
 
-console.log("Server created and starting....");
 server.listen(8081);
